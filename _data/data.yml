@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jialing Huang
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jialing.huang@hotmail.com
     phone: 514 553 2231
-    linkedin: alandoe
+    linkedin: 
     github: github.com/Jialing-Huang
 
     languages:
