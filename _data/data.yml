@@ -67,7 +67,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: DashBoardView
-        link: "#hook"
+        link: "https://github.com/Jialing-Huang/DashboardViewProject"
         tagline: "- A MEAN stack web app developed by Angular 8 , Node.js, MongoDB.Atlas 
                   - Online Login and Register functions available
                   - Material design style UI by Angular Material Library."
